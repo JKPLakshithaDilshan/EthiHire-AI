@@ -2,12 +2,6 @@
 
 <div align="center">
 
-
-![Java](https://img.shields.io/badge/Java-21-orange.svg)
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)
-
 **An intelligent recruitment ecosystem that automates hiring while eliminating algorithmic bias.**
 
 </div>
