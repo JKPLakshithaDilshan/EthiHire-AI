@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pandas
+scikit-learn
+joblib
+openai
+python-dotenv
+PyPDF2
+pytesseract
+pdf2image
+sentence-transformers
+numpy
+mysql-connector-python
+python-multipart
